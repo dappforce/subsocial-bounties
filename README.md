@@ -10,10 +10,18 @@ On this page, you will find everything you need to participant in the Subsocial 
 
 See [issues](./issues).
 
-### Judging Criteria 
+### Judging Criteria
+
+- Open sourced code.
 
 ### Rewards
 
+- 2000 USD for the best solution.
+- 1000 USD for 3 accepted solutions each.
+
 ### Resources
 
-- 
+- [Official site](https://subsocial.network/)
+- [Subsocial SDK docs](https://docs.subsocial.network/docs/sdk/overview/intro/)
+- [Devs chat on Telegram](https://t.me/+oUpF3nTHlCkwNzA6)
+- [Devs chat on Discord](https://discord.gg/yHRFdyMCmA)
