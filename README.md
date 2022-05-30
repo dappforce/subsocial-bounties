@@ -12,10 +12,7 @@ See [issues](./issues).
 
 ### Rewards
 
-A total rewards pool for this hackathon is 5000 USD:
-
-- 2000 USD for the best solution.
-- 1000 USD for 3 accepted solutions each.
+A total rewards pool for this hackathon is 5000 USD.
 
 ### Judging Criteria
 
