@@ -10,14 +10,21 @@ On this page, you will find everything you need to participant in the Subsocial 
 
 See [issues](./issues).
 
-### Judging Criteria
-
-- Open sourced code.
-
 ### Rewards
 
 - 2000 USD for the best solution.
 - 1000 USD for 3 accepted solutions each.
+
+### Judging Criteria
+
+- Public GitHub repository.
+- Clean open-sourced code.
+- Comprehensive Readme file on how to use a dapp.
+- Working dapp that is deployed so that judges can try it.
+- Demo video of the dapp for presentation.
+- Usage of Subsocial SDK or blockchain.
+- Startup potential and future plans.
+- GPL-3.0 license is preferred.
 
 ### Resources
 
