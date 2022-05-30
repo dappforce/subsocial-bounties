@@ -34,4 +34,4 @@ A total rewards pool for this hackathon is 5000 USD:
 - [Subsocial SDK docs](https://docs.subsocial.network/docs/sdk/overview/intro/)
 - [Faucet for testnet tokens](https://discord.gg/yHRFdyMCmA)
 - [Devs chat on Telegram](https://t.me/+oUpF3nTHlCkwNzA6)
-- [Devs chat on Discord](https://discord.gg/yHRFdyMCmA)
+- [Devs chat on Discord](https://discord.gg/avccqJAW3C)
